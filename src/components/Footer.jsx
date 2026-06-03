@@ -40,7 +40,7 @@ export default function Footer() {
           <div className="footer-brand">
             <a href="#home" onClick={(e) => handleLinkClick(e, '#home')} className="footer-logo">
               <span className="logo-icon"><Terminal size={18} /></span>
-              <span className="logo-text">Alex<span className="text-gradient">.dev</span></span>
+              <span className="logo-text">Badsha<span className="text-gradient">.dev</span></span>
             </a>
             <p className="footer-brand-desc">
               Building high-performance, visually stunning web applications with modern design systems and clean architecture.
